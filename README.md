@@ -1,6 +1,6 @@
-# post-repaso
+# Título, o sea h1
 
-## Subtítulo, o sea: h1
+## Sub-título, o sea h2
 
 ### Sub-subtítulo, o sea: h3
 
